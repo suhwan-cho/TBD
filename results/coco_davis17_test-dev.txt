@@ -1,0 +1,7 @@
+GlobalMean: 0.694066
+JMean: 0.666231
+JRecall: 0.755408
+JDecay: 0.174263
+FMean: 0.721900
+FRecall: 0.811447
+FDecay: 0.191070

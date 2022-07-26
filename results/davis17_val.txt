@@ -1,0 +1,70 @@
+Evaluating sequences...
+--------------------------- Global results ---------------------------
+ J&F-Mean   J-Mean  J-Recall  J-Decay   F-Mean  F-Recall  F-Decay
+ 0.751991 0.732309  0.838576 0.135264 0.771673  0.882042 0.149234
+
+---------- Per sequence results----------
+           Sequence   J-Mean   F-Mean
+      bike-packing1 0.640858 0.827159
+      bike-packing2 0.860374 0.861154
+         blackswan1 0.958921 0.987336
+         bmx-trees1 0.356567 0.701395
+         bmx-trees2 0.651810 0.808224
+        breakdance1 0.797953 0.799500
+             camel1 0.846595 0.877253
+    car-roundabout1 0.855530 0.784100
+        car-shadow1 0.954795 0.959379
+              cows1 0.955996 0.974417
+       dance-twirl1 0.831553 0.809549
+               dog1 0.956612 0.973110
+         dogs-jump1 0.108465 0.155743
+         dogs-jump2 0.577596 0.719739
+         dogs-jump3 0.930661 0.966222
+     drift-chicane1 0.847565 0.920508
+    drift-straight1 0.897804 0.809961
+              goat1 0.903942 0.934145
+         gold-fish1 0.828736 0.808787
+         gold-fish2 0.745742 0.776188
+         gold-fish3 0.810434 0.830777
+         gold-fish4 0.872008 0.866261
+         gold-fish5 0.834265 0.778401
+    horsejump-high1 0.865828 0.953696
+    horsejump-high2 0.797429 0.946980
+             india1 0.761899 0.717365
+             india2 0.503307 0.457028
+             india3 0.664630 0.666200
+              judo1 0.829736 0.817320
+              judo2 0.820129 0.832061
+         kite-surf1 0.361250 0.511177
+         kite-surf2 0.125278 0.217950
+         kite-surf3 0.746180 0.921756
+          lab-coat1 0.000000 0.000000
+          lab-coat2 0.000000 0.004382
+          lab-coat3 0.963725 0.936836
+          lab-coat4 0.905370 0.789579
+          lab-coat5 0.916653 0.891129
+             libby1 0.898121 0.976131
+           loading1 0.960726 0.939036
+           loading2 0.810472 0.768091
+           loading3 0.840968 0.885319
+       mbike-trick1 0.712588 0.787151
+       mbike-trick2 0.760258 0.818665
+    motocross-jump1 0.583598 0.639517
+    motocross-jump2 0.801585 0.685782
+paragliding-launch1 0.779081 0.862218
+paragliding-launch2 0.618076 0.827053
+paragliding-launch3 0.139193 0.431819
+           parkour1 0.936746 0.956813
+              pigs1 0.877048 0.842330
+              pigs2 0.661310 0.774031
+              pigs3 0.929134 0.879866
+     scooter-black1 0.622460 0.799516
+     scooter-black2 0.730137 0.693512
+          shooting1 0.628456 0.612612
+          shooting2 0.869982 0.850504
+          shooting3 0.900604 0.975970
+           soapbox1 0.868151 0.870658
+           soapbox2 0.763526 0.817228
+           soapbox3 0.692447 0.785457
+
+Total time:65.17854619026184

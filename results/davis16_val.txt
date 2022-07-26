@@ -1,0 +1,29 @@
+Evaluating sequences...
+--------------------------- Global results ---------------------------
+ J&F-Mean  J-Mean  J-Recall  J-Decay   F-Mean  F-Recall  F-Decay
+  0.84294 0.85214  0.961187 0.078099 0.833739  0.934767 0.058669
+
+---------- Per sequence results----------
+           Sequence   J-Mean   F-Mean
+         blackswan1 0.958921 0.987336
+         bmx-trees1 0.580629 0.783011
+        breakdance1 0.797953 0.799500
+             camel1 0.846595 0.877253
+    car-roundabout1 0.855530 0.784100
+        car-shadow1 0.954795 0.959379
+              cows1 0.955996 0.974417
+       dance-twirl1 0.831553 0.809541
+               dog1 0.956612 0.973110
+     drift-chicane1 0.847565 0.920508
+    drift-straight1 0.897804 0.809961
+              goat1 0.903942 0.934145
+    horsejump-high1 0.899538 0.954938
+         kite-surf1 0.692785 0.594742
+             libby1 0.898121 0.976131
+    motocross-jump1 0.866046 0.721011
+paragliding-launch1 0.618563 0.239180
+           parkour1 0.936746 0.956813
+     scooter-black1 0.832354 0.728780
+           soapbox1 0.910753 0.890933
+
+Total time:30.901020765304565
